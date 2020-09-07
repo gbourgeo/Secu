@@ -2,13 +2,13 @@
 This folder regroup my participation on some security challenge
 
 ### ROOT_ME
-+ [https:://github.com/gbourgeo/Secu/Root-me]
++ [Info](https://github.com/gbourgeo/Secu/Root-me)
 
 ### OVERRIDE
-+ []
++ [Info](https://github.com/gbourgeo/Secu/Override)
 
 ### RAINFALL
-+ []
++ [Info](https://github.com/gbourgeo/Secu/Rainfall)
 
 ### SNOWCRASH
-+ []
++ [Info](https://github.com/gbourgeo/Secu/Snowcrash)
